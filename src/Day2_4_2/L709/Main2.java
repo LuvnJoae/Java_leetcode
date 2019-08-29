@@ -2,7 +2,11 @@ package Day2_4_2.L709;
 
 import java.util.Scanner;
 
+/**
+ * 思路2
+ 1. 其实都是一样的，只是把if判断，变成了正则表达式；
 
+ */
 public class Main2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

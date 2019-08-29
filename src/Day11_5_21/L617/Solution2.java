@@ -1,5 +1,10 @@
 package Day11_5_21.L617;
 
+/**
+ * 思路2
+ 1. 和思路一一样，只不过不需要定义新的节点，直接左节点，或者右节点的值覆盖就好了
+
+ */
 public class Solution2 {
     public TreeNode mergeTrees(TreeNode t1, TreeNode t2) {
 

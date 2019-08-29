@@ -3,6 +3,11 @@ package Day15_6_4.L1051;
 import java.util.Arrays;
 import java.util.Stack;
 
+/**
+ * 思路1
+ 1. 直接利用Array.sort进行排序，再和原数组进行比较，看看有几位不同。
+ 这几位就是结果。
+ */
 public class Solution {
     public int heightChecker(int[] heights) {
         int[] result = new int[heights.length];

@@ -14,7 +14,18 @@ class Node {
         children = _children;
     }
 }
+/**
+ * 思路1
+ 1. 采用递归思路
+ a. 后序遍历，先遍历从左到右的子树，最后输出根节点值
+ 2. 先定义一个ArrayList
+ 3. 在方法内
+ a. 如果，节点不为空
+ i. 先遍历该节点的子树（顺序），递归调用本方法
+ ii. 再添加这个节点的值
+ b. 最后返回list
 
+ */
 public class Solution {
     ArrayList<Integer> list = new ArrayList<>();
 

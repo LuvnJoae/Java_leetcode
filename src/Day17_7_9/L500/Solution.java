@@ -3,6 +3,15 @@ package Day17_7_9.L500;
 import java.util.ArrayList;
 import java.util.HashMap;
 
+/**
+ * 思路1
+ 1. 通过HashMap 键值形式存储，以行为值，字母为键
+ 2. 对每个单词的字母进行遍历，如果每个字母的值不一样，就跳过，下一个，一样的话就添加到返回的字符串数组内
+ 反思
+ 1. 要有非空判断，即边界判定。
+ 2. 其实也可以不用HashMap，因为就三行，所以直接用下标来判断也是可以的。
+
+ */
 public class Solution {
     public String[] findWords(String[] words) {
         if (words == null){

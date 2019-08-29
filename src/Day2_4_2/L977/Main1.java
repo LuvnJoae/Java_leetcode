@@ -4,6 +4,13 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 
+/**
+ * 思路1
+ 1. for循环，将自身元素平方后，返还给自身
+ 2. 用Arrays工具类排序
+ 3. 返回数组
+
+ */
 public class Main1 {
     public static void main(String[] args) {
         int[] ints = new int[]{

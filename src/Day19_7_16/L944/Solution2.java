@@ -1,5 +1,11 @@
 package Day19_7_16.L944;
 
+/**
+ * 思路二
+ 反思
+ 1. 和第一种思路一样，不同之处是 用charAt（i）方法代替了toCharArray，这样就避免了每次都转成数组耗费的时间和空间。
+ 思路三和二一样，只不过把首字母提出来放在了外面。
+ */
 public class Solution2 {
     public int minDeletionSize(String[] A) {
         if (A == null) return 0;

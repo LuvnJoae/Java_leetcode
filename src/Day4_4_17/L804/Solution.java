@@ -2,6 +2,20 @@ package Day4_4_17.L804;
 
 import java.util.HashMap;
 
+/**
+ * 思路1
+ 通过HashMap的键值对进行存储
+ 1. 建立HashMap1，对字母和摩尔码进行键值对应存储。
+ 2. 遍历字符串数组，对其中的每一个字符串进行摩尔转换
+ a. 通过toCharArray 和 concat实现
+ b. 通过StringBuild的append方法实现
+ 3. 然后将转换过的摩尔密码用HashMap2存储
+ 4. 每次转换后，都进行判断，判断是否已经在HashMap中存在
+ a. 不存在，则新建一个键值对象
+ b. 存在，不做任何改变
+ 5. 遍历完成后，输出HashMap 的长度。
+
+ */
 public class Solution {
     public int uniqueMorseRepresentations(String[] words) {
 //      通过哈希表 键值对 的方式存储摩尔密码和字母的关系
