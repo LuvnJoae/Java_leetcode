@@ -22,7 +22,7 @@ public class Solution3 {
             max = max < depth ? depth : max;
         }
         System.out.println("asd");
-        System.out.println("123124321");
+        System.out.println("1231243");
         return max + 1;
     }
 }
