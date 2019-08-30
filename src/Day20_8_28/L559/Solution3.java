@@ -21,8 +21,7 @@ public class Solution3 {
             depth = maxDepth(child);
             max = max < depth ? depth : max;
         }
-        System.out.println("123");
-        System.out.println("123");
+        System.out.println("asd");
         return max + 1;
     }
 }
