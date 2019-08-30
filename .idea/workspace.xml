@@ -6,55 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="738fd558-2027-44fb-b43a-3c9900e8af38" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Day20_8_28/L559/Solution3.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day10_5_16/L938/Solution.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day10_5_16/L938/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day10_5_16/L938/Solution2.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day10_5_16/L938/Solution2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day11_5_21/L104/Solution.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day11_5_21/L104/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day11_5_21/L104/Solution2.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day11_5_21/L104/Solution2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day11_5_21/L226/Solution.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day11_5_21/L226/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day11_5_21/L617/Solution.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day11_5_21/L617/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day11_5_21/L617/Solution2.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day11_5_21/L617/Solution2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day12_5_29/L589/Solution.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day12_5_29/L589/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day12_5_29/L589/Solution2.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day12_5_29/L589/Solution2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day12_5_29/L590/Solution.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day12_5_29/L590/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day12_5_29/L590/Solution2.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day12_5_29/L590/Solution2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day13_5_31/L852/Solution.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day13_5_31/L852/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day13_5_31/L852/Solution2.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day13_5_31/L852/Solution2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day14_6_3/L700/Solution.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day14_6_3/L700/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day14_6_3/L700/Solution2.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day14_6_3/L700/Solution2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day15_6_4/L1051/Solution.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day15_6_4/L1051/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day16_6_5/L476/Solution.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day16_6_5/L476/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day16_6_5/L476/Solution2.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day16_6_5/L476/Solution2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day16_6_5/L476/Solution3.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day16_6_5/L476/Solution3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day17_7_9/L344/Solution.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day17_7_9/L344/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day17_7_9/L500/Solution.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day17_7_9/L500/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day18_7_11/L933/Solution.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day18_7_11/L933/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day19_7_16/L944/Solution.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day19_7_16/L944/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day1_3_31/L771/Main1.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day1_3_31/L771/Main1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day1_3_31/L771/Main2.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day1_3_31/L771/Main2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day2_4_2/L709/Main1.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day2_4_2/L709/Main1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day2_4_2/L709/Main2.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day2_4_2/L709/Main2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day2_4_2/L977/Main1.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day2_4_2/L977/Main1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day2_4_2/L985/Main1.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day2_4_2/L985/Main1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day2_4_2/L985/Main2.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day2_4_2/L985/Main2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day3_4_15/L832/Solution.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day3_4_15/L832/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day3_4_15/L832/Solution2.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day3_4_15/L832/Solution2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day4_4_17/L804/Solution.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day4_4_17/L804/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day4_4_17/L804/Solution2.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day4_4_17/L804/Solution2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day5_4_18/L657/Solution.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day5_4_18/L657/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day5_4_18/L657/Solution2.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day5_4_18/L657/Solution2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day6_4_25/L1021/Solution.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day6_4_25/L1021/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day6_4_25/L1021/Solution2.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day6_4_25/L1021/Solution2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day7_5_13/L461/Solution.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day7_5_13/L461/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day7_5_13/L461/Solution2.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day7_5_13/L461/Solution2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day7_5_13/L461/Solution3.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day7_5_13/L461/Solution3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day8_5_14/L942/Solution.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day8_5_14/L942/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day9_5_15/L292/Solution.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day9_5_15/L292/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day9_5_15/L728/Solution.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day9_5_15/L728/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day9_5_15/L728/Solution2.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day9_5_15/L728/Solution2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcodePractice/Day9_5_15/L905/Solution.class" afterPath="$PROJECT_DIR$/out/production/leetcodePractice/Day9_5_15/L905/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Day20_8_28/L559/Solution3.java" afterPath="$PROJECT_DIR$/src/Day20_8_28/L559/Solution3.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -484,15 +437,24 @@
       <workItem from="1563516339437" duration="606000" />
       <workItem from="1566990717559" duration="12140000" />
       <workItem from="1567154119070" duration="2713000" />
-      <workItem from="1567164333363" duration="315000" />
+      <workItem from="1567164333363" duration="337000" />
     </task>
+    <task id="LOCAL-00001" summary="update and add">
+      <created>1567164651735</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567164651735</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95484000" />
+    <option name="totallyTimeSpent" value="95506000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
