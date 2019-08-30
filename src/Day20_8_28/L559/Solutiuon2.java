@@ -13,7 +13,7 @@ import java.util.Queue;
  2. 也没有节省下多少的东西，空间复杂度反而更高了（理想条件下）
 
  */
-public class Solutiuon2 {
+class Solutiuon2 {
     public int maxDepth(Node root){
         Queue<Pair<Node, Integer>> queue = new LinkedList<>();
         if (root != null){

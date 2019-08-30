@@ -28,7 +28,7 @@ class Node{
  iii. 新建一个对象，但是没有给值，则使用isEmpty判断（新建时给了初始对象，不是null）
 
  */
-public class Solution {
+class Solution {
     public int maxDepth(Node root){
         if (root == null){
             return 0;

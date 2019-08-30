@@ -8,7 +8,7 @@ package Day19_7_16.L944;
  反思
  不该每次都转charArray，又花时间又花内存
  */
-public class Solution {
+class Solution {
     public int minDeletionSize(String[] A) {
         if (A == null) return 0;
         int count = 0;
@@ -25,7 +25,7 @@ public class Solution {
         return count;
     }
 
-    public static void main(String[] args) {
+    static void main(String[] args) {
         String[] A = {"zyx", "wvu", "tsr"};
         int a = new Solution().minDeletionSize(A);
         System.out.println(a);

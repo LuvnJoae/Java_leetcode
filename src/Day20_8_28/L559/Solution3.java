@@ -10,7 +10,7 @@ package Day20_8_28.L559;
  1. 虽然时间复杂度都是一样的（和思路一），但是避免了在递归过程中大量新建列表或者调用排序方法，因此节省了大量的时间和空间。
 
  */
-public class Solution3 {
+class Solution3 {
     public int maxDepth(Node root){
         if (root == null){
             return 0;

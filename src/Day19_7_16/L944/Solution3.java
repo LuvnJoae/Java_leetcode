@@ -1,6 +1,6 @@
 package Day19_7_16.L944;
 
-public class Solution3 {
+class Solution3 {
     public int minDeletionSize(String[] A) {
         if (A == null) return 0;
         int count = 0;
